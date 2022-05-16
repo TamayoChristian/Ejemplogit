@@ -1,2 +1,10 @@
 Ingresar el vector. 
 Ordenar en forma ascendente. 
+
+Codificabdo c++
+Función 1
+Cuerpo
+Fin de la función. 
+
+
+Codificando versión para imprimir los resultados. 

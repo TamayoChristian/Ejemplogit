@@ -1,4 +1,10 @@
 Tesis de grado de TICs.
 Universidad Catolica - Sede Esmeraldas.
 
- 
+
+Redacción de cpaitulo 1
+
+Redacción de capitulo 2
+
+Analisis del sistema
+Diseño del sistema
